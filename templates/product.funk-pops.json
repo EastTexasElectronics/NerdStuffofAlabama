@@ -83,7 +83,7 @@
             "button_type_product": "show",
             "enable_sticky_addtocart": true,
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
+            "show_gift_card_recipient": true
           }
         },
         "1a749470-1b54-4c8f-a333-5b8486e63386": {
