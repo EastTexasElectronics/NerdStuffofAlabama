@@ -30,7 +30,7 @@
     "description": {
       "type": "main-collection-description",
       "settings": {
-        "top_spacing": "small",
+        "top_spacing": "none",
         "width": "page-width",
         "texts_aligment": "text-left"
       }
@@ -47,19 +47,19 @@
         "enable_sticky_filter_button": true,
         "enable_products_count": true,
         "pagination_aligment": "text-left",
-        "product_limit": 18,
-        "image_ratio": "1",
+        "product_limit": 50,
+        "image_ratio": "auto",
         "show_secondary_image": true,
         "texts_aligment": "text-center",
         "product_name_size": "normal",
-        "show_vendor": true,
-        "show_type": true,
-        "show_rating": false,
+        "show_vendor": false,
+        "show_type": false,
+        "show_rating": true,
         "show_price": true,
         "truncate_product_name": false,
-        "hover_underline": false,
+        "hover_underline": true,
         "button_type_product": "show",
-        "show_button_quickview": false,
+        "show_button_quickview": true,
         "show_badge_on_sale": true,
         "show_badge_sold_out": true,
         "show_badge_feature": true
