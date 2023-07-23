@@ -248,6 +248,108 @@
         "color_meta": "rgba(0,0,0,0)",
         "color_button_product": "rgba(0,0,0,0)"
       }
+    },
+    "0d530cef-ac12-4f95-9751-97d3e95dfa0d": {
+      "type": "reviews",
+      "blocks": {
+        "template--20057923780884__0d530cef-ac12-4f95-9751-97d3e95dfa0d-review-1": {
+          "type": "review",
+          "settings": {
+            "show_image": "show",
+            "url": "",
+            "heading": "Heading",
+            "description": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "— Author Name"
+          }
+        },
+        "template--20057923780884__0d530cef-ac12-4f95-9751-97d3e95dfa0d-review-2": {
+          "type": "review",
+          "settings": {
+            "show_image": "show",
+            "url": "",
+            "heading": "Heading",
+            "description": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "— Author Name"
+          }
+        },
+        "template--20057923780884__0d530cef-ac12-4f95-9751-97d3e95dfa0d-review-3": {
+          "type": "review",
+          "settings": {
+            "show_image": "show",
+            "url": "",
+            "heading": "Heading",
+            "description": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "— Author Name"
+          }
+        },
+        "template--20057923780884__0d530cef-ac12-4f95-9751-97d3e95dfa0d-review-4": {
+          "type": "review",
+          "settings": {
+            "show_image": "show",
+            "url": "",
+            "heading": "Heading",
+            "description": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "— Author Name"
+          }
+        }
+      },
+      "block_order": [
+        "template--20057923780884__0d530cef-ac12-4f95-9751-97d3e95dfa0d-review-1",
+        "template--20057923780884__0d530cef-ac12-4f95-9751-97d3e95dfa0d-review-2",
+        "template--20057923780884__0d530cef-ac12-4f95-9751-97d3e95dfa0d-review-3",
+        "template--20057923780884__0d530cef-ac12-4f95-9751-97d3e95dfa0d-review-4"
+      ],
+      "settings": {
+        "subheading": "SUBHEADING",
+        "heading": "Reviews",
+        "heading_aligment": "text-center",
+        "top_spacing": "normal",
+        "width": "page-width",
+        "grid": "col-md-6 col-3",
+        "swipe_on_mobile": false,
+        "image_ratio": "auto",
+        "texts_aligment": "text-center",
+        "description_size": "normal",
+        "color_subheading": "rgba(0,0,0,0)",
+        "color_heading": "rgba(0,0,0,0)",
+        "color_swipe_buttons": "rgba(0,0,0,0)",
+        "color_heading_blurb": "rgba(0,0,0,0)",
+        "color_description": "rgba(0,0,0,0)",
+        "color_author": "rgba(0,0,0,0)",
+        "background": "hide",
+        "color_background": "rgba(0,0,0,0)",
+        "gradient": "",
+        "background_width": "fullwidth",
+        "background_spacing": "normal",
+        "remove_bottom_spacing": false
+      }
+    },
+    "169015542433d88c9c": {
+      "type": "apps",
+      "blocks": {
+        "d825fb12-c7b3-47e1-af0d-05a2b34e5808": {
+          "type": "shopify:\/\/apps\/collabs\/blocks\/application-page\/54758706-9f25-4fa9-a553-64720a4c998b",
+          "settings": {
+            "heading": "Affiliate Program",
+            "show_square_logo": false,
+            "show_partnership_info": false,
+            "button_text": "Apply Now",
+            "number_of_images": "4",
+            "logo_position": "above",
+            "corner_style": "rounded",
+            "button_background_color": "#000000",
+            "button_label_color": "#ffffff",
+            "link_color": "#2c6ecb"
+          }
+        }
+      },
+      "block_order": [
+        "d825fb12-c7b3-47e1-af0d-05a2b34e5808"
+      ],
+      "settings": {
+        "top_spacing": "normal",
+        "width": "page-width"
+      }
     }
   },
   "order": [
@@ -255,6 +357,8 @@
     "1654072995afca1996",
     "165407356523eee2bb",
     "2df68404-6024-4069-aaf1-ba7b3e18fb99",
-    "16544355349cd01ef0"
+    "16544355349cd01ef0",
+    "0d530cef-ac12-4f95-9751-97d3e95dfa0d",
+    "169015542433d88c9c"
   ]
 }
