@@ -115,7 +115,7 @@
         "1654073565bebd9f10-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "comics-manga",
             "collection_name": "",
             "custom_link": ""
           }
@@ -123,7 +123,7 @@
         "1654073565bebd9f10-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "action-figures-statues",
             "collection_name": "",
             "custom_link": ""
           }
@@ -131,7 +131,7 @@
         "1654073565bebd9f10-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "loungefly-bags",
             "collection_name": "",
             "custom_link": ""
           }
@@ -147,7 +147,7 @@
         "1654073565bebd9f10-5": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "accessories",
             "collection_name": "",
             "custom_link": ""
           }
