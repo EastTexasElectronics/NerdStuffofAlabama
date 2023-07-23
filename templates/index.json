@@ -101,75 +101,14 @@
         "remove_bottom_spacing": false
       }
     },
-    "1654088606ba61ec96": {
-      "type": "icon-banners",
-      "blocks": {
-        "1654088606ed0fd416-0": {
-          "type": "banner",
-          "settings": {
-            "show_icon": "svg",
-            "icon_name": "delivery",
-            "url": "",
-            "heading": "Heading",
-            "description": "Short content about your store",
-            "button_name": "Learn more"
-          }
-        },
-        "1654088606ed0fd416-1": {
-          "type": "banner",
-          "settings": {
-            "show_icon": "svg",
-            "icon_name": "chat",
-            "url": "",
-            "heading": "Heading",
-            "description": "Short content about your store",
-            "button_name": "Learn more"
-          }
-        },
-        "1654088606ed0fd416-2": {
-          "type": "banner",
-          "settings": {
-            "show_icon": "svg",
-            "icon_name": "money_back",
-            "url": "",
-            "heading": "Heading",
-            "description": "Short content about your store",
-            "button_name": "Learn more"
-          }
-        }
-      },
-      "block_order": [
-        "1654088606ed0fd416-0",
-        "1654088606ed0fd416-1",
-        "1654088606ed0fd416-2"
-      ],
-      "settings": {
-        "subheading": "SUBHEADING",
-        "heading": "Icon banners",
-        "heading_aligment": "text-center",
-        "top_spacing": "normal",
-        "width": "page-width",
-        "grid": "grid-columns-3",
-        "swipe_on_mobile": false,
-        "texts_aligment": "text-left",
-        "heading_tag": "h4",
-        "description_size": "normal",
-        "hover_underline": false,
-        "color_subheading": "rgba(0,0,0,0)",
-        "color_heading": "rgba(0,0,0,0)",
-        "color_svg": "rgba(0,0,0,0)",
-        "color_heading_banner": "rgba(0,0,0,0)",
-        "color_button": "rgba(0,0,0,0)"
-      }
-    },
     "165407356523eee2bb": {
       "type": "collection-list",
       "blocks": {
         "1654073565bebd9f10-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
-            "collection_name": "",
+            "collection": "funko-pops",
+            "collection_name": "Funko Pops!",
             "custom_link": ""
           }
         },
@@ -610,7 +549,6 @@
   "order": [
     "1662640935ca798dff",
     "1654072995afca1996",
-    "1654088606ba61ec96",
     "165407356523eee2bb",
     "1654074087c407e2b5",
     "16540743022dac448e",
