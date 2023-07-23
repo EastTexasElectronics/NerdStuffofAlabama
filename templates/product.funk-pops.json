@@ -175,16 +175,16 @@
         "6d434407-5ff9-4345-9c2b-9e5f78283589"
       ],
       "settings": {
-        "top_spacing": "medium",
+        "top_spacing": "none",
         "width": "page-width",
         "media_size": "small",
         "gallery_position": "to left",
         "heading_aligment": "mobile-text-center",
         "use_accordion": true,
         "mobile_thumbnails": "thumbnails_images",
-        "mobile_thumbnails_aligment": "justify-content-center",
+        "mobile_thumbnails_aligment": "justify-content-start",
         "enable_sticky_info": true,
-        "enable_video_looping": false,
+        "enable_video_looping": true,
         "enable_image_zoom": true
       }
     },
