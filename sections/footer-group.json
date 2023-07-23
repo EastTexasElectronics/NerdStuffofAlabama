@@ -81,6 +81,13 @@
             "menu": "footer"
           }
         },
+        "1e218b33-a294-4b90-8b94-2c00a80a7605": {
+          "type": "link_list",
+          "settings": {
+            "heading": "QUICK LINKS",
+            "menu": "footer-column-2-quick-links"
+          }
+        },
         "359796ef-2c18-41e5-baf4-b897ea8ba40b": {
           "type": "newsletter",
           "settings": {
@@ -92,19 +99,12 @@
             "enable_follow_on_shop": true,
             "heading_social": "FOLLOW US:"
           }
-        },
-        "1e218b33-a294-4b90-8b94-2c00a80a7605": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Quick Links",
-            "menu": "footer-column-2-quick-links"
-          }
         }
       },
       "block_order": [
         "c103923d-e013-41a1-b43e-151a87948e30",
-        "359796ef-2c18-41e5-baf4-b897ea8ba40b",
-        "1e218b33-a294-4b90-8b94-2c00a80a7605"
+        "1e218b33-a294-4b90-8b94-2c00a80a7605",
+        "359796ef-2c18-41e5-baf4-b897ea8ba40b"
       ],
       "settings": {
         "top_spacing": "none",
