@@ -186,6 +186,34 @@
         "color_button_hover": "rgba(0,0,0,0)"
       }
     },
+    "2df68404-6024-4069-aaf1-ba7b3e18fb99": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "subheading": "",
+        "heading": "Your Recently Viewed Products",
+        "heading_aligment": "text-left",
+        "top_spacing": "small",
+        "width": "page-width",
+        "grid": "col-md-4 col-one_fifth",
+        "mobile_grid": "6",
+        "swipe_on_mobile": false,
+        "image_ratio": "1",
+        "show_secondary_image": true,
+        "texts_aligment": "text-center",
+        "product_name_size": "normal",
+        "show_vendor": false,
+        "show_price": true,
+        "truncate_product_name": false,
+        "hover_underline": true,
+        "show_button_quickview": true,
+        "show_badge_on_sale": true,
+        "show_badge_sold_out": true,
+        "show_badge_feature": true,
+        "color_subheading": "rgba(0,0,0,0)",
+        "color_heading": "rgba(0,0,0,0)",
+        "color_meta": "rgba(0,0,0,0)"
+      }
+    },
     "16544355349cd01ef0": {
       "type": "featured-collection",
       "settings": {
@@ -226,6 +254,7 @@
     "1662640935ca798dff",
     "1654072995afca1996",
     "165407356523eee2bb",
+    "2df68404-6024-4069-aaf1-ba7b3e18fb99",
     "16544355349cd01ef0"
   ]
 }
