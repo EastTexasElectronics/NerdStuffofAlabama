@@ -8,9 +8,12 @@
         "a09f6cc1-7be6-4132-816c-cc67060d5f8e": {
           "type": "main_menu_icons",
           "settings": {
-            "icon1": "dog",
-            "icon2": "cat_sm",
-            "icon3": "fish_sm",
+            "icon1": "",
+            "icon_image1": "shopify:\/\/shop_images\/91325-toy-funko-text-yellow-figures-action_800x800_1_96x96_2c1306ef-ec1e-4c6d-8605-b27ae3ccf8fa.png",
+            "icon2": "",
+            "icon_image2": "shopify:\/\/shop_images\/comic_96x96_399abea4-0ced-4ac6-af74-237d2985d40e.png",
+            "icon3": "",
+            "icon_image3": "shopify:\/\/shop_images\/0-9035_effect-png_96x96_ca54dfeb-4ede-431f-b8d2-2cdb60884c64.png",
             "icon4": "mouse_sm",
             "icon5": "snake_sm",
             "icon6": "bird_sm",
