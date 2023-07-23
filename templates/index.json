@@ -186,79 +186,6 @@
         "color_button_hover": "rgba(0,0,0,0)"
       }
     },
-    "1654074087c407e2b5": {
-      "type": "brands",
-      "blocks": {
-        "1654074087617b461f-0": {
-          "type": "image",
-          "settings": {
-            "url": "",
-            "heading": "Optional heading"
-          }
-        },
-        "1654074087617b461f-1": {
-          "type": "image",
-          "settings": {
-            "url": "",
-            "heading": "Optional heading"
-          }
-        },
-        "1654074087617b461f-2": {
-          "type": "image",
-          "settings": {
-            "url": "",
-            "heading": "Optional heading"
-          }
-        },
-        "1654074087617b461f-3": {
-          "type": "image",
-          "settings": {
-            "url": "",
-            "heading": "Optional heading"
-          }
-        },
-        "1654074087617b461f-4": {
-          "type": "image",
-          "settings": {
-            "url": "",
-            "heading": "Optional heading"
-          }
-        },
-        "1654074087617b461f-5": {
-          "type": "image",
-          "settings": {
-            "url": "",
-            "heading": "Optional heading"
-          }
-        }
-      },
-      "block_order": [
-        "1654074087617b461f-0",
-        "1654074087617b461f-1",
-        "1654074087617b461f-2",
-        "1654074087617b461f-3",
-        "1654074087617b461f-4",
-        "1654074087617b461f-5"
-      ],
-      "settings": {
-        "subheading": "SUBHEADING",
-        "heading": "Brands",
-        "heading_aligment": "text-center",
-        "link_name": "Show All",
-        "link_url": "",
-        "top_spacing": "normal",
-        "width": "page-width",
-        "grid": "col-st-4 col-2",
-        "mobile_grid": "6",
-        "swipe_on_mobile": true,
-        "text_aligment": "text-center",
-        "hide_text": true,
-        "hover_underline": false,
-        "color_subheading": "rgba(0,0,0,0)",
-        "color_heading": "rgba(0,0,0,0)",
-        "color_link": "rgba(0,0,0,0)"
-      }
-    },
     "16540743022dac448e": {
       "type": "ticker",
       "settings": {
@@ -282,9 +209,9 @@
     "16544355349cd01ef0": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
-        "subheading": "SUBHEADING",
-        "heading": "Featured collection",
+        "collection": "funko-pops",
+        "subheading": "",
+        "heading": "",
         "heading_aligment": "text-center",
         "button_name": "Show All",
         "top_spacing": "normal",
@@ -550,7 +477,6 @@
     "1662640935ca798dff",
     "1654072995afca1996",
     "165407356523eee2bb",
-    "1654074087c407e2b5",
     "16540743022dac448e",
     "16544355349cd01ef0",
     "1654074104e778457c",
