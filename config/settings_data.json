@@ -43,7 +43,7 @@
     "show_cart_note": true,
     "cart_drawer_collection": "colors",
     "cart_drawer_image_ratio": "auto",
-    "terms_and_condition_checkbox": true,
+    "terms_and_condition_checkbox": false,
     "continue_shopping_link": "",
     "show_free_delivery": true,
     "free_delivery_price": "75",

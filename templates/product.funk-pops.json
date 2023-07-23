@@ -41,13 +41,13 @@
           "settings": {
             "text_size": "small",
             "icon_name_1": "check_sm",
-            "content_1": "<p>Short content about your product.<\/p>",
+            "content_1": "<p>Official Funko Pop! Product<\/p>",
             "icon_name_2": "check_sm",
-            "content_2": "<p>Short content about your product.<\/p>",
+            "content_2": "<p>Quick Ship Guarantee <\/p>",
             "icon_name_3": "",
-            "content_3": "<p>Icons are optional<\/p>",
-            "icon_name_4": "check",
-            "content_4": "<p><strong>USE RICH TEXT EDITOR<br\/><\/strong>And big icons to highlight the product sale point<\/p>",
+            "content_3": "",
+            "icon_name_4": "",
+            "content_4": "",
             "icon_name_5": "",
             "content_5": ""
           }
