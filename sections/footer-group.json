@@ -93,10 +93,10 @@
           "settings": {
             "show_newsletter": true,
             "heading": "NEWSLETTER",
-            "subtext": "<p>Sign up for our e-mail and be the first who knows our special offers!<\/p>",
-            "newsletter_terms": "<p>By clicking the button you agree to the <a href=\"\/\"><strong>Privacy Policy<\/strong><\/a> and <a href=\"\/\"><strong>Terms and Conditions<\/strong><\/a>.<\/p>",
+            "subtext": "<p>Sign up for our email newsletter today to be the first to know about special offers, exclusive deals, and the latest additions!<\/p>",
+            "newsletter_terms": "<p>By clicking the button you agree to the <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\"><strong>Privacy Policy<\/strong><\/a> and <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\"><strong>Terms of Service<\/strong><\/a>.<\/p>",
             "show_social": true,
-            "enable_follow_on_shop": true,
+            "enable_follow_on_shop": false,
             "heading_social": "FOLLOW US:"
           }
         }
