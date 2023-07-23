@@ -47,7 +47,7 @@
         "heading_aligment": "text-left",
         "button_name": "",
         "button_url": "",
-        "top_spacing": "normal",
+        "top_spacing": "none",
         "width": "page-width",
         "grid": "col-4",
         "swipe_on_mobile": false,
