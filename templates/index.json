@@ -338,6 +338,7 @@
           "type": "image",
           "settings": {
             "content_type": "image",
+            "image": "shopify:\/\/shop_images\/CO7CxvKy2fsCEAE.webp",
             "image_ratio": "1.333333",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
             "description": ""
@@ -363,13 +364,21 @@
           "settings": {
             "show_icon": "svg",
             "icon_name": "check",
-            "text": ""
+            "text": "<p>We are partnered with Shopify Collabs for a simple and garneted payout process.<\/p>"
+          }
+        },
+        "d0e52d37-5a0f-4d71-aaee-b636aa4c5123": {
+          "type": "text",
+          "settings": {
+            "show_icon": "svg",
+            "icon_name": "check",
+            "text": "<p>Some More Info<\/p>"
           }
         },
         "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-button-1": {
           "type": "button",
           "settings": {
-            "button_name": "Button"
+            "button_name": "Apply Here"
           }
         }
       },
@@ -378,19 +387,20 @@
         "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-heading-1",
         "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-text-1",
         "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-text-2",
+        "d0e52d37-5a0f-4d71-aaee-b636aa4c5123",
         "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-button-1"
       ],
       "settings": {
-        "url": "",
-        "top_spacing": "normal",
+        "url": "https:\/\/accounts.shopify.com\/signup?rid=01f1221a-5f1e-4667-bffd-ac5172846d56",
+        "top_spacing": "small",
         "width": "page-width",
         "row_reverse": false,
         "heading_aligment": "text-center",
         "content_aligment": "align-self-start",
         "texts_aligment": "text-left",
-        "heading_tag": "h2",
+        "heading_tag": "h1",
         "text_size": "normal",
-        "hover_underline": false,
+        "hover_underline": true,
         "color_subheading": "rgba(0,0,0,0)",
         "color_heading": "rgba(0,0,0,0)",
         "color_svg": "rgba(0,0,0,0)",
