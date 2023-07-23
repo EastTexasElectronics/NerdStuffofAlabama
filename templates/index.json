@@ -355,7 +355,7 @@
           "settings": {
             "show_icon": "svg",
             "icon_name": "check",
-            "text": "<p>Some descriptive text for your store. For better alignment, it is better to use text in several lines<\/p>"
+            "text": "<p>Are you a creator?  We are looking for affiliates to help grow our brand,<\/p>"
           }
         },
         "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-text-2": {
@@ -363,7 +363,7 @@
           "settings": {
             "show_icon": "svg",
             "icon_name": "check",
-            "text": "<p>Some descriptive text for your store. For better alignment, it is better to use text in several lines<\/p>"
+            "text": ""
           }
         },
         "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-button-1": {
