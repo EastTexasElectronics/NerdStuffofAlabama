@@ -167,7 +167,7 @@
         "heading_aligment": "text-left",
         "link_name": "See All Categories",
         "link_url": "shopify:\/\/collections",
-        "top_spacing": "none",
+        "top_spacing": "small",
         "width": "page-width",
         "grid": "col-md-4 col-2",
         "mobile_grid": "6",
