@@ -157,7 +157,7 @@
         "6d434407-5ff9-4345-9c2b-9e5f78283589"
       ],
       "settings": {
-        "top_spacing": "none",
+        "top_spacing": "small",
         "width": "page-width",
         "media_size": "small",
         "gallery_position": "to left",
