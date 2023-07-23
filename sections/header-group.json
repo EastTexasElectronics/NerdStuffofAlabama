@@ -40,7 +40,7 @@
       ],
       "settings": {
         "header_layout": "header-layout-tiles",
-        "menu": "main-menu",
+        "menu": "tiles",
         "secondary_menu": "",
         "width": "page-width",
         "show_search": true,
