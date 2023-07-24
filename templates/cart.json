@@ -22,11 +22,11 @@
     "1654078801691cb7ae": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
-        "subheading": "SUBHEADING",
-        "heading": "Featured collection",
+        "collection": "funko-pops",
+        "subheading": "",
+        "heading": "Featured Collection",
         "heading_aligment": "text-center",
-        "button_name": "Show All",
+        "button_name": "Browse All Funko Pops!",
         "top_spacing": "normal",
         "width": "page-width",
         "grid": "col-md-4 col-one_fifth",
@@ -39,11 +39,12 @@
         "product_name_size": "body2",
         "show_vendor": true,
         "show_type": true,
-        "show_rating": false,
+        "show_rating": true,
         "show_price": true,
         "truncate_product_name": false,
-        "hover_underline": false,
+        "hover_underline": true,
         "button_type_product": "hide",
+        "show_button_quickview": true,
         "show_badge_on_sale": true,
         "show_badge_sold_out": true,
         "show_badge_feature": true,
@@ -59,7 +60,9 @@
         "93f5c086-5220-41d3-bb53-4b7847bc91a1": {
           "type": "shopify:\/\/apps\/boost-ai-search-discovery\/blocks\/recommendation\/7fc998ae-a150-4367-bab8-505d8a4503f7",
           "settings": {
-            "widgetId": "cartpage-860345"
+            "widgetId": "cartpage-860345",
+            "additional_classes": "",
+            "custom_css": ""
           }
         }
       },
@@ -67,6 +70,8 @@
         "93f5c086-5220-41d3-bb53-4b7847bc91a1"
       ],
       "settings": {
+        "top_spacing": "normal",
+        "width": "page-width"
       }
     },
     "31e46950-2d1d-40ba-a378-f1fb2fafc335": {
@@ -75,7 +80,9 @@
         "928322ff-810b-4dce-bec2-b5651ef12e7b": {
           "type": "shopify:\/\/apps\/boost-ai-search-discovery\/blocks\/recommendation\/7fc998ae-a150-4367-bab8-505d8a4503f7",
           "settings": {
-            "widgetId": "cartpage-218548"
+            "widgetId": "cartpage-218548",
+            "additional_classes": "",
+            "custom_css": ""
           }
         }
       },
@@ -83,6 +90,8 @@
         "928322ff-810b-4dce-bec2-b5651ef12e7b"
       ],
       "settings": {
+        "top_spacing": "normal",
+        "width": "page-width"
       }
     }
   },
