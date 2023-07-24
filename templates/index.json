@@ -351,6 +351,7 @@
     },
     "95e9118e-b245-430c-8fc3-42e12fb65906": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-image-1": {
           "type": "image",
