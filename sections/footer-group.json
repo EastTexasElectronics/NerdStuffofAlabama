@@ -64,8 +64,8 @@
         "color_description": "rgba(0,0,0,0)",
         "color_svg": "rgba(0,0,0,0)",
         "background": "color",
-        "color_background": "rgba(0,0,0,0)",
-        "gradient": "",
+        "color_background": "#e3b130",
+        "gradient": "linear-gradient(344deg, rgba(255, 145, 129, 1), rgba(254, 91, 124, 1) 49%, rgba(255, 140, 162, 1) 100%)",
         "background_width": "fullwidth",
         "background_spacing": "medium",
         "remove_bottom_spacing": false
@@ -117,13 +117,13 @@
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
-        "color_heading": "rgba(0,0,0,0)",
-        "color_text": "rgba(0,0,0,0)",
-        "color_links": "rgba(0,0,0,0)",
+        "color_heading": "#ffffff",
+        "color_text": "#ffffff",
+        "color_links": "#e3b130",
         "color_input_bg": "#ffffff",
         "color_input_bg_active": "rgba(0,0,0,0)",
         "background": "color",
-        "color_background": "rgba(0,0,0,0)",
+        "color_background": "#0052b1",
         "gradient": ""
       }
     },
