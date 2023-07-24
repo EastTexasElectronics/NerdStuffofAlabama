@@ -1,1 +1,75 @@
-{"sections":{"main":{"type":"main-404","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a": {
+      "type": "image-with-text-bg",
+      "blocks": {
+        "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-image-1": {
+          "type": "image",
+          "settings": {
+            "content_type": "image",
+            "image_ratio": "1.333333",
+            "image": "shopify:\/\/shop_images\/pnghut_http-404-political-party-internet-web-browser-error-world-wide.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": ""
+          }
+        },
+        "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "subheading": "",
+            "heading": "Sorry but we can not find this page :(."
+          }
+        },
+        "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_name": "Return Home"
+          }
+        }
+      },
+      "block_order": [
+        "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-image-1",
+        "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-heading-1",
+        "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-text-1",
+        "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-button-1"
+      ],
+      "settings": {
+        "url": "\/home",
+        "top_spacing": "none",
+        "width": "page-width",
+        "column_reverse": true,
+        "texts_aligment": "text-center",
+        "heading_tag": "h2",
+        "text_size": "normal",
+        "hover_underline": true,
+        "color_subheading": "rgba(0,0,0,0)",
+        "color_heading": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "color_button": "rgba(0,0,0,0)",
+        "play_background": "rgba(0,0,0,0)",
+        "background": "color",
+        "color_background": "rgba(0,0,0,0)",
+        "gradient": "",
+        "background_width": "fullwidth",
+        "background_spacing": "normal",
+        "background_bp": 50
+      }
+    }
+  },
+  "order": [
+    "main",
+    "90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a"
+  ]
+}
