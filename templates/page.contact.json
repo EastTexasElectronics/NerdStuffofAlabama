@@ -17,7 +17,7 @@
         "heading": "Contact Us",
         "text": "Got a question or just want to chat?",
         "heading_aligment": "text-center",
-        "top_spacing": "normal",
+        "top_spacing": "none",
         "width": "page-width",
         "description_size": "normal",
         "color_subheading": "rgba(0,0,0,0)",
@@ -43,7 +43,7 @@
             "show_icon": "svg",
             "icon_name": "delivery",
             "url": "",
-            "heading": "Address:",
+            "heading": "SHIPPING ADDRESS",
             "description": "Millbrook, Alabama, United States",
             "button_name": "Learn more"
           }
@@ -52,10 +52,10 @@
           "type": "banner",
           "settings": {
             "show_icon": "svg",
-            "icon_name": "chat",
+            "icon_name": "Phone",
             "url": "",
-            "heading": "Heading",
-            "description": "Short content about your store",
+            "heading": "PHONE",
+            "description": "+1 (334) 423-4233\nMonday - Friday 9am-5pm Central Time",
             "button_name": "Learn more"
           }
         },
@@ -63,10 +63,10 @@
           "type": "banner",
           "settings": {
             "show_icon": "svg",
-            "icon_name": "money_back",
+            "icon_name": "mail",
             "url": "",
-            "heading": "Heading",
-            "description": "Short content about your store",
+            "heading": "EMAIL",
+            "description": "Support@AlNerdStuff.com",
             "button_name": "Learn more"
           }
         }
@@ -80,7 +80,7 @@
         "subheading": "",
         "heading": "",
         "heading_aligment": "text-center",
-        "top_spacing": "normal",
+        "top_spacing": "small",
         "width": "page-width",
         "grid": "grid-columns-3",
         "swipe_on_mobile": false,
