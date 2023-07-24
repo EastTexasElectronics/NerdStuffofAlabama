@@ -8,6 +8,7 @@
           "settings": {
             "content_type": "video",
             "video_url": "",
+            "image": "shopify:\/\/shop_images\/classic-neon-open-sign.jpg",
             "image_overlay_opacity": 0,
             "subheading": "",
             "heading": "",
@@ -36,6 +37,7 @@
           "settings": {
             "content_type": "image",
             "video_url": "",
+            "image": "shopify:\/\/shop_images\/self-serve-coffee-shop.jpg",
             "image_overlay_opacity": 0,
             "subheading": "",
             "heading": "",
@@ -58,11 +60,41 @@
             "button_secondary_bg": "rgba(0,0,0,0)",
             "color_background": "rgba(0,0,0,0)"
           }
+        },
+        "451efd59-cfa1-4593-afc5-9b06dc89ca97": {
+          "type": "slide",
+          "settings": {
+            "content_type": "image",
+            "video_url": "",
+            "image": "shopify:\/\/shop_images\/shop-local.jpg",
+            "image_overlay_opacity": 0,
+            "subheading": "",
+            "heading": "",
+            "description": "",
+            "call_to_action": "one_link_banner",
+            "button_primary_name": "Button",
+            "url": "",
+            "button_secondary_name": "Button",
+            "button_secondary_url": "",
+            "texts_aligment": "text-center",
+            "heading_tag": "h1",
+            "description_size": "normal",
+            "content_aligment": "align-items-center justify-content-center",
+            "show_background": false,
+            "hover_underline": false,
+            "color_subheading": "rgba(0,0,0,0)",
+            "color_heading": "rgba(0,0,0,0)",
+            "color_description": "rgba(0,0,0,0)",
+            "button_primary_bg": "rgba(0,0,0,0)",
+            "button_secondary_bg": "rgba(0,0,0,0)",
+            "color_background": "rgba(0,0,0,0)"
+          }
         }
       },
       "block_order": [
         "166264093577412f3d-0",
-        "69cbccf2-3651-4207-afeb-d5def55ce1c3"
+        "69cbccf2-3651-4207-afeb-d5def55ce1c3",
+        "451efd59-cfa1-4593-afc5-9b06dc89ca97"
       ],
       "settings": {
         "top_spacing": "none",
