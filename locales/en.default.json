@@ -459,5 +459,15 @@
     "description": "You must be of legal drinking age to purchase wines.",
     "button_1_name": "Yes",
     "button_2_name": "Exit"
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "autocomplete_powered_by_google": "Thank you for visiting our shop 😊"
+      }
+    },
+    "links": {
+      "powered_by_shopify": "Thank you for visiting our shop 😊"
+    }
   }
 }
