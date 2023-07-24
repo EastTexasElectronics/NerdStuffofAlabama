@@ -60,7 +60,7 @@
         "width": "page-width",
         "grid": "grid-columns-3",
         "swipe_on_mobile": false,
-        "texts_aligment": "text-left",
+        "texts_aligment": "text-center",
         "heading_tag": "h4",
         "description_size": "normal",
         "hover_underline": false,

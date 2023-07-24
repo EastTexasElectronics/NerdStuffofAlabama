@@ -133,6 +133,80 @@
         "remove_bottom_spacing": false
       }
     },
+    "57efe9ef-3dcd-4aa3-9119-e3aef0272e3a": {
+      "type": "brands",
+      "blocks": {
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/walmart-logo-blue-gold.png",
+            "url": "https:\/\/Walmart.com",
+            "heading": "Walmart"
+          }
+        },
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-2": {
+          "type": "image",
+          "settings": {
+            "url": "",
+            "heading": "Optional heading"
+          }
+        },
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-3": {
+          "type": "image",
+          "settings": {
+            "url": "",
+            "heading": "Optional heading"
+          }
+        },
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-4": {
+          "type": "image",
+          "settings": {
+            "url": "",
+            "heading": "Optional heading"
+          }
+        },
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-5": {
+          "type": "image",
+          "settings": {
+            "url": "",
+            "heading": "Optional heading"
+          }
+        },
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-6": {
+          "type": "image",
+          "settings": {
+            "url": "",
+            "heading": "Optional heading"
+          }
+        }
+      },
+      "block_order": [
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-1",
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-2",
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-3",
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-4",
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-5",
+        "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-6"
+      ],
+      "settings": {
+        "subheading": "",
+        "heading": "Also Find Us On",
+        "heading_aligment": "text-center",
+        "link_name": "",
+        "link_url": "",
+        "top_spacing": "normal",
+        "width": "page-width",
+        "grid": "col-st-4 col-2",
+        "mobile_grid": "6",
+        "swipe_on_mobile": false,
+        "text_aligment": "text-center",
+        "hide_text": true,
+        "hover_underline": false,
+        "color_subheading": "rgba(0,0,0,0)",
+        "color_heading": "rgba(0,0,0,0)",
+        "color_link": "rgba(0,0,0,0)"
+      }
+    },
     "165407356523eee2bb": {
       "type": "collection-list",
       "blocks": {
@@ -375,6 +449,7 @@
   "order": [
     "1662640935ca798dff",
     "1654072995afca1996",
+    "57efe9ef-3dcd-4aa3-9119-e3aef0272e3a",
     "165407356523eee2bb",
     "2df68404-6024-4069-aaf1-ba7b3e18fb99",
     "16544355349cd01ef0",
