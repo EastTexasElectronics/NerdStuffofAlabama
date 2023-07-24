@@ -61,7 +61,7 @@
         "visible_items_count": 10,
         "icons_size": 48,
         "color_tile_base": "#b10021",
-        "color_tile_active": "rgba(0,0,0,0)",
+        "color_tile_active": "#0052b1",
         "color_button": "rgba(0,0,0,0)",
         "sections_count": "1"
       }
