@@ -4,7 +4,7 @@
       "type": "main-cart-items",
       "settings": {
         "heading_aligment": "heading-left",
-        "top_spacing": "medium",
+        "top_spacing": "small",
         "width": "page-width",
         "image_ratio": "auto",
         "show_vendor": true
