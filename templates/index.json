@@ -348,90 +348,6 @@
         "top_spacing": "normal",
         "width": "page-width"
       }
-    },
-    "95e9118e-b245-430c-8fc3-42e12fb65906": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-image-1": {
-          "type": "image",
-          "settings": {
-            "content_type": "image",
-            "image": "shopify:\/\/shop_images\/CO7CxvKy2fsCEAE.webp",
-            "image_ratio": "1.333333",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": ""
-          }
-        },
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-heading-1": {
-          "type": "heading",
-          "settings": {
-            "subheading": "",
-            "heading": "Affiliate Program"
-          }
-        },
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-text-1": {
-          "type": "text",
-          "settings": {
-            "show_icon": "svg",
-            "icon_name": "check",
-            "text": "<p>Are you a creator?  We are looking for affiliates to help grow our brand,<\/p>"
-          }
-        },
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-text-2": {
-          "type": "text",
-          "settings": {
-            "show_icon": "svg",
-            "icon_name": "check",
-            "text": "<p>We are partnered with Shopify Collabs for a simple and garneted payout process.<\/p>"
-          }
-        },
-        "d0e52d37-5a0f-4d71-aaee-b636aa4c5123": {
-          "type": "text",
-          "settings": {
-            "show_icon": "svg",
-            "icon_name": "check",
-            "text": "<p>Some More Info<\/p>"
-          }
-        },
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-button-1": {
-          "type": "button",
-          "settings": {
-            "button_name": "Apply Here"
-          }
-        }
-      },
-      "block_order": [
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-image-1",
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-heading-1",
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-text-1",
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-text-2",
-        "d0e52d37-5a0f-4d71-aaee-b636aa4c5123",
-        "template--20057923780884__95e9118e-b245-430c-8fc3-42e12fb65906-button-1"
-      ],
-      "settings": {
-        "url": "https:\/\/accounts.shopify.com\/signup?rid=01f1221a-5f1e-4667-bffd-ac5172846d56",
-        "top_spacing": "small",
-        "width": "page-width",
-        "row_reverse": false,
-        "heading_aligment": "text-center",
-        "content_aligment": "align-self-start",
-        "texts_aligment": "text-left",
-        "heading_tag": "h1",
-        "text_size": "normal",
-        "hover_underline": true,
-        "color_subheading": "rgba(0,0,0,0)",
-        "color_heading": "rgba(0,0,0,0)",
-        "color_svg": "rgba(0,0,0,0)",
-        "color_text": "rgba(0,0,0,0)",
-        "color_button": "rgba(0,0,0,0)",
-        "background": "hide",
-        "color_background": "rgba(0,0,0,0)",
-        "gradient": "",
-        "background_width": "fullwidth",
-        "background_spacing": "normal",
-        "remove_bottom_spacing": false
-      }
     }
   },
   "order": [
@@ -441,7 +357,6 @@
     "57efe9ef-3dcd-4aa3-9119-e3aef0272e3a",
     "2df68404-6024-4069-aaf1-ba7b3e18fb99",
     "16544355349cd01ef0",
-    "169015542433d88c9c",
-    "95e9118e-b245-430c-8fc3-42e12fb65906"
+    "169015542433d88c9c"
   ]
 }

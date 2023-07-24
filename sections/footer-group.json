@@ -2,6 +2,98 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "45182d40-0601-43d2-ac7a-b7813d1fd340": {
+      "type": "image-with-text",
+      "blocks": {
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-image-1": {
+          "type": "image",
+          "settings": {
+            "content_type": "image",
+            "image": "shopify:\/\/shop_images\/CO7CxvKy2fsCEAE.webp",
+            "image_ratio": "1.333333",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": ""
+          }
+        },
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-heading-1": {
+          "type": "heading",
+          "settings": {
+            "subheading": "",
+            "heading": "Creator Affiliate Program"
+          }
+        },
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-text-1": {
+          "type": "text",
+          "settings": {
+            "show_icon": "svg",
+            "icon_name": "smile",
+            "text": "<p>Are you a creator?  We are looking for affiliates to help grow our brand,<\/p>"
+          }
+        },
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-text-2": {
+          "type": "text",
+          "settings": {
+            "show_icon": "svg",
+            "icon_name": "certified",
+            "text": "<p>We are partnered with Shopify Collabs for a simple and garneted payout process.<\/p>"
+          }
+        },
+        "579f7d83-992f-4855-b909-2ef747207383": {
+          "type": "text",
+          "settings": {
+            "show_icon": "svg",
+            "icon_name": "advertising",
+            "text": "<p>Some descriptive text for your store. For better alignment, it is better to use text in several lines<\/p>"
+          }
+        },
+        "50ef61f2-5b6a-4f1e-a9ee-1c4c4742ce9d": {
+          "type": "text",
+          "settings": {
+            "show_icon": "svg",
+            "icon_name": "money_back",
+            "text": "<p>10% Commission on all direct sales<\/p>"
+          }
+        },
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-button-1": {
+          "type": "button",
+          "settings": {
+            "button_name": "Apply Now"
+          }
+        }
+      },
+      "block_order": [
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-image-1",
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-heading-1",
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-text-1",
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-text-2",
+        "579f7d83-992f-4855-b909-2ef747207383",
+        "50ef61f2-5b6a-4f1e-a9ee-1c4c4742ce9d",
+        "sections--20057922797844__45182d40-0601-43d2-ac7a-b7813d1fd340-button-1"
+      ],
+      "settings": {
+        "url": "https:\/\/accounts.shopify.com\/signup?rid=01f1221a-5f1e-4667-bffd-ac5172846d56",
+        "top_spacing": "normal",
+        "width": "page-width",
+        "row_reverse": false,
+        "heading_aligment": "text-center",
+        "content_aligment": "align-self-start",
+        "texts_aligment": "text-left",
+        "heading_tag": "h2",
+        "text_size": "normal",
+        "hover_underline": false,
+        "color_subheading": "rgba(0,0,0,0)",
+        "color_heading": "rgba(0,0,0,0)",
+        "color_svg": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "color_button": "rgba(0,0,0,0)",
+        "background": "hide",
+        "color_background": "rgba(0,0,0,0)",
+        "gradient": "",
+        "background_width": "fullwidth",
+        "background_spacing": "normal",
+        "remove_bottom_spacing": false
+      }
+    },
     "3ae345e7-2b04-4d0d-8e16-ad8d7eed8f85": {
       "type": "text-columns-with-images",
       "blocks": {
@@ -129,6 +221,7 @@
     }
   },
   "order": [
+    "45182d40-0601-43d2-ac7a-b7813d1fd340",
     "3ae345e7-2b04-4d0d-8e16-ad8d7eed8f85",
     "footer"
   ]
