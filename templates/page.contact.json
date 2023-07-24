@@ -10,30 +10,6 @@
         "heading_aligment": "text-center"
       }
     },
-    "1654074802c1fb8429": {
-      "type": "contact-form",
-      "settings": {
-        "subheading": "",
-        "heading": "Contact Us",
-        "text": "Got a question or just want to chat?",
-        "heading_aligment": "text-center",
-        "top_spacing": "none",
-        "width": "page-width",
-        "description_size": "normal",
-        "color_subheading": "rgba(0,0,0,0)",
-        "color_heading": "rgba(0,0,0,0)",
-        "color_text": "rgba(0,0,0,0)",
-        "color_input_bg": "rgba(0,0,0,0)",
-        "color_input_bg_active": "rgba(0,0,0,0)",
-        "color_button": "rgba(0,0,0,0)",
-        "background": "hide",
-        "color_background": "rgba(0,0,0,0)",
-        "gradient": "",
-        "background_width": "fullwidth",
-        "background_spacing": "normal",
-        "remove_bottom_spacing": false
-      }
-    },
     "9b2c70c7-05f7-4281-80f8-afbbd6630450": {
       "type": "icon-banners",
       "blocks": {
@@ -80,7 +56,7 @@
         "subheading": "",
         "heading": "",
         "heading_aligment": "text-center",
-        "top_spacing": "small",
+        "top_spacing": "none",
         "width": "page-width",
         "grid": "grid-columns-3",
         "swipe_on_mobile": false,
@@ -94,11 +70,35 @@
         "color_heading_banner": "rgba(0,0,0,0)",
         "color_button": "rgba(0,0,0,0)"
       }
+    },
+    "1654074802c1fb8429": {
+      "type": "contact-form",
+      "settings": {
+        "subheading": "",
+        "heading": "Contact Us",
+        "text": "Got a question or just want to chat?",
+        "heading_aligment": "text-center",
+        "top_spacing": "small",
+        "width": "page-width",
+        "description_size": "normal",
+        "color_subheading": "rgba(0,0,0,0)",
+        "color_heading": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "color_input_bg": "rgba(0,0,0,0)",
+        "color_input_bg_active": "rgba(0,0,0,0)",
+        "color_button": "rgba(0,0,0,0)",
+        "background": "hide",
+        "color_background": "rgba(0,0,0,0)",
+        "gradient": "",
+        "background_width": "fullwidth",
+        "background_spacing": "normal",
+        "remove_bottom_spacing": false
+      }
     }
   },
   "order": [
     "main",
-    "1654074802c1fb8429",
-    "9b2c70c7-05f7-4281-80f8-afbbd6630450"
+    "9b2c70c7-05f7-4281-80f8-afbbd6630450",
+    "1654074802c1fb8429"
   ]
 }
