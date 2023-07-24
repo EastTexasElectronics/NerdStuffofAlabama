@@ -59,8 +59,8 @@
         "logo_max_width_mobile": 50,
         "logo_position_mobile": "center",
         "visible_items_count": 10,
-        "icons_size": 20,
-        "color_tile_base": "#f6f7fa",
+        "icons_size": 48,
+        "color_tile_base": "#b10021",
         "color_tile_active": "rgba(0,0,0,0)",
         "color_button": "rgba(0,0,0,0)",
         "sections_count": "1"
