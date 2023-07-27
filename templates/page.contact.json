@@ -20,7 +20,7 @@
             "icon_name": "delivery",
             "url": "",
             "heading": "SHIPPING ADDRESS",
-            "description": "Millbrook, Alabama, United States",
+            "description": "5781 Hickory Drive\nMillbrook, Alabama, 36054 United States",
             "button_name": "Learn more"
           }
         },
@@ -31,7 +31,7 @@
             "icon_name": "Phone",
             "url": "",
             "heading": "PHONE",
-            "description": "+1 (334) 423-4233\nMonday - Friday 9am-5pm Central Time",
+            "description": "+1 (228)-254-6420\nCall us anytime! If we do not answer leave a message with your name and number and we will get back to you as soon as possible. Please keep in mind an email will usually get the quickest response",
             "button_name": "Learn more"
           }
         },
@@ -42,7 +42,7 @@
             "icon_name": "mail",
             "url": "",
             "heading": "EMAIL",
-            "description": "Support@AlNerdStuff.com",
+            "description": "customerservice@AlNerdStuff.com",
             "button_name": "Learn more"
           }
         }
