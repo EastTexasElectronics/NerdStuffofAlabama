@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-blog",
-      "disabled": true,
       "settings": {
         "heading_aligment": "text-center",
         "top_spacing": "normal",
@@ -28,8 +27,8 @@
       "settings": {
         "blog": "news",
         "subheading": "",
-        "heading": "Blog Posts",
-        "heading_aligment": "text-left",
+        "heading": "Collecting",
+        "heading_aligment": "text-center",
         "link_name": "Browse All Blogs",
         "top_spacing": "none",
         "width": "page-width",
