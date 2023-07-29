@@ -5,6 +5,7 @@
       "blocks": {
         "69cbccf2-3651-4207-afeb-d5def55ce1c3": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "content_type": "image",
             "video_url": "",
