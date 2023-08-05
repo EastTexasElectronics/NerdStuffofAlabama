@@ -111,6 +111,25 @@
             "hover_underline": false,
             "button_type_product": "hide"
           }
+        },
+        "189155cd-c5ed-4d96-86e9-c3062327636d": {
+          "type": "additional-feature",
+          "settings": {
+            "heading": "Additional features",
+            "icon_name": "certified_sm",
+            "icon_1": "check",
+            "text_1": "All comics come with a resealable bag and board.",
+            "icon_2": "check",
+            "text_2": "Ships in a Gemini Mailer for safe transit to you!",
+            "icon_3": "",
+            "text_3": "",
+            "icon_4": "",
+            "text_4": "",
+            "icon_5": "",
+            "text_5": "",
+            "icon_6": "",
+            "text_6": ""
+          }
         }
       },
       "block_order": [
@@ -125,7 +144,8 @@
         "03273730-7345-42ca-900c-d5d4b561aa65",
         "d386a495-8de6-4101-a186-33bc8771e993",
         "891d0f6f-5a37-4358-a93f-d49c92004bef",
-        "6d434407-5ff9-4345-9c2b-9e5f78283589"
+        "6d434407-5ff9-4345-9c2b-9e5f78283589",
+        "189155cd-c5ed-4d96-86e9-c3062327636d"
       ],
       "settings": {
         "top_spacing": "medium",
