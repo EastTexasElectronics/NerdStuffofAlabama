@@ -36,22 +36,6 @@
             "inventory": 6
           }
         },
-        "a593bf72-1978-43ec-9d69-7b6cf499eb6c": {
-          "type": "text",
-          "settings": {
-            "text_size": "small",
-            "icon_name_1": "check_sm",
-            "content_1": "<p>Short content about your product.<\/p>",
-            "icon_name_2": "check_sm",
-            "content_2": "<p>Short content about your product.<\/p>",
-            "icon_name_3": "",
-            "content_3": "<p>Icons are optional<\/p>",
-            "icon_name_4": "check",
-            "content_4": "<p><strong>USE RICH TEXT EDITOR<br\/><\/strong>And big icons to highlight the product sale point<\/p>",
-            "icon_name_5": "",
-            "content_5": ""
-          }
-        },
         "22f92dfa-de40-4d8a-b823-e2ce09e7b494": {
           "type": "variant_picker",
           "settings": {
@@ -115,34 +99,6 @@
             "icon_name": "Info_sm"
           }
         },
-        "64bcad80-f315-441e-b1a9-67c6bcc66a4b": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon_name": "new_sm",
-            "content": "<p>Add an additional description to your products. You may set the same content for all products. <\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p><p>Or you may link a dynamic source to show product fields like vendor or custom product meta fields.<\/p><p>Ex: Ingredients, nutritional info, additional features and other unique per-product data.<\/p>",
-            "page": ""
-          }
-        },
-        "de9b7b68-7c6a-4e8a-a64b-a11978a6ad82": {
-          "type": "additional-feature",
-          "settings": {
-            "heading": "Additional features",
-            "icon_name": "certified_sm",
-            "icon_1": "check",
-            "text_1": "Add product sale point",
-            "icon_2": "check",
-            "text_2": "Add product sale point",
-            "icon_3": "",
-            "text_3": "",
-            "icon_4": "",
-            "text_4": "",
-            "icon_5": "",
-            "text_5": "",
-            "icon_6": "",
-            "text_6": ""
-          }
-        },
         "6d434407-5ff9-4345-9c2b-9e5f78283589": {
           "type": "complementary",
           "settings": {
@@ -163,15 +119,12 @@
         "4f8b197f-142b-4618-96c7-abd9de7cc0c4",
         "36032345-aea2-4f92-821a-d5ca441bfc03",
         "ae34e2b1-9301-41fa-90ba-334a896aea64",
-        "a593bf72-1978-43ec-9d69-7b6cf499eb6c",
         "22f92dfa-de40-4d8a-b823-e2ce09e7b494",
         "1b8b6108-97d1-4af6-bfc4-13bdc10f6046",
         "1a749470-1b54-4c8f-a333-5b8486e63386",
         "03273730-7345-42ca-900c-d5d4b561aa65",
         "d386a495-8de6-4101-a186-33bc8771e993",
         "891d0f6f-5a37-4358-a93f-d49c92004bef",
-        "64bcad80-f315-441e-b1a9-67c6bcc66a4b",
-        "de9b7b68-7c6a-4e8a-a64b-a11978a6ad82",
         "6d434407-5ff9-4345-9c2b-9e5f78283589"
       ],
       "settings": {
