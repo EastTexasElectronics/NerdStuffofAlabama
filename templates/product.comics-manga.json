@@ -6,9 +6,9 @@
         "c334dc4d-89dc-4e31-8960-5ff0586700f3": {
           "type": "information",
           "settings": {
-            "show_sku": true,
+            "show_sku": false,
             "show_barcode": false,
-            "show_vendor": true,
+            "show_vendor": false,
             "show_type": false
           }
         },
