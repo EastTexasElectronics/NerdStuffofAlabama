@@ -295,7 +295,7 @@
             "icon_name": "delivery",
             "url": "",
             "heading": "Free delivery",
-            "description": "Short content about your store",
+            "description": "Orders over $75 get free shipping!",
             "button_name": "Learn more"
           }
         },
@@ -306,7 +306,7 @@
             "icon_name": "chat",
             "url": "",
             "heading": "Top-notch support",
-            "description": "Short content about your store",
+            "description": "Have a question or concern? We are here for you! Reach out to us and we will get you an answer as quickly as possible.",
             "button_name": "Learn more"
           }
         },
@@ -316,8 +316,8 @@
             "show_icon": "svg",
             "icon_name": "money_back",
             "url": "",
-            "heading": "Satisfied or refunded",
-            "description": "Short content about your store",
+            "heading": "Issue with your order?",
+            "description": "Have an issue with your purchase? Reach out to us and lets make it right.",
             "button_name": "Learn more"
           }
         }
@@ -348,6 +348,7 @@
     },
     "1654079122d668a8e2": {
       "type": "banners",
+      "disabled": true,
       "blocks": {
         "16540791227c6814a2-0": {
           "type": "banner",
