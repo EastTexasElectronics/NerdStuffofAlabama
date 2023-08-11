@@ -59,6 +59,7 @@
         },
         "a593bf72-1978-43ec-9d69-7b6cf499eb6c": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text_size": "small",
             "icon_name_1": "check_sm",
