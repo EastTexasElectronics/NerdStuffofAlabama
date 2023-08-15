@@ -219,7 +219,6 @@
     },
     "57efe9ef-3dcd-4aa3-9119-e3aef0272e3a": {
       "type": "brands",
-      "disabled": true,
       "blocks": {
         "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-1": {
           "type": "image",
@@ -260,6 +259,7 @@
         "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-3",
         "template--20057923780884__57efe9ef-3dcd-4aa3-9119-e3aef0272e3a-image-4"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "",
         "heading": "As Seen On",
