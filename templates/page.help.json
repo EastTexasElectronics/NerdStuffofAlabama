@@ -16,22 +16,22 @@
         "1654075249135de529-0": {
           "type": "text",
           "settings": {
-            "heading": "Frequently asked question",
-            "description": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "heading": "How long will my order take to arrive?",
+            "description": "<p>Orders typically arrive in 3-7 business days. Unless you are in HA or AK then please allow an additional 3-4 business days for it to arrive.<\/p>"
           }
         },
         "1654075249135de529-1": {
           "type": "text",
           "settings": {
-            "heading": "Frequently asked question",
-            "description": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "heading": "How long does it take to receive my refund once you receive my return.",
+            "description": "<p>Please allow 2-3 business days for your return to be processed and a refund issued back to you. Once issued Please allow your financial institution 4-7 business days to release the funds back to you.<\/p>"
           }
         },
         "1654075249135de529-2": {
           "type": "text",
           "settings": {
-            "heading": "Frequently asked question",
-            "description": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "heading": "How is my order shipped?",
+            "description": "<p>We here at Nerd Stuff of Alabama are collectors so we understand the importance of receiving items safely and quickly. All standard Pops are shipped in protectors and packaged carefully to ensure safe transit to you.<\/p>"
           }
         }
       },
