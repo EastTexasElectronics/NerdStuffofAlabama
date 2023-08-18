@@ -3,20 +3,20 @@
     "1662640935ca798dff": {
       "type": "slideshow",
       "blocks": {
-        "69cbccf2-3651-4207-afeb-d5def55ce1c3": {
+        "166264093577412f3d-0": {
           "type": "slide",
           "settings": {
             "content_type": "image",
             "video_url": "",
-            "image": "shopify:\/\/shop_images\/Untitled_design_1_3ee82296-42ca-4531-a42c-d0a1764a92b9.png",
+            "image": "shopify:\/\/shop_images\/Flash_Sale_Promotion_Comic_Style_-_Instagram_Post_Facebook_Cover_1300_x_620_px.png",
             "image_overlay_opacity": 0,
             "subheading": "",
             "heading": "",
             "description": "",
             "call_to_action": "one_link_banner",
             "button_primary_name": "",
-            "url": "",
-            "button_secondary_name": "",
+            "url": "shopify:\/\/collections",
+            "button_secondary_name": "Button",
             "button_secondary_url": "",
             "texts_aligment": "text-center",
             "heading_tag": "h1",
@@ -32,19 +32,20 @@
             "color_background": "rgba(0,0,0,0)"
           }
         },
-        "166264093577412f3d-0": {
+        "69cbccf2-3651-4207-afeb-d5def55ce1c3": {
           "type": "slide",
           "settings": {
             "content_type": "image",
             "video_url": "",
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_3ee82296-42ca-4531-a42c-d0a1764a92b9.png",
             "image_overlay_opacity": 0,
             "subheading": "",
             "heading": "",
             "description": "",
             "call_to_action": "one_link_banner",
             "button_primary_name": "",
-            "url": "shopify:\/\/collections",
-            "button_secondary_name": "Button",
+            "url": "",
+            "button_secondary_name": "",
             "button_secondary_url": "",
             "texts_aligment": "text-center",
             "heading_tag": "h1",
@@ -91,8 +92,8 @@
         }
       },
       "block_order": [
-        "69cbccf2-3651-4207-afeb-d5def55ce1c3",
         "166264093577412f3d-0",
+        "69cbccf2-3651-4207-afeb-d5def55ce1c3",
         "451efd59-cfa1-4593-afc5-9b06dc89ca97"
       ],
       "settings": {
