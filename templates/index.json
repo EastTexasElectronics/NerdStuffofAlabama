@@ -314,7 +314,7 @@
         "collection": "on-sale",
         "subheading": "",
         "heading": "HOT DEALS!",
-        "heading_aligment": "text-left",
+        "heading_aligment": "text-center",
         "button_name": "See All Deals",
         "top_spacing": "small",
         "width": "page-width",
