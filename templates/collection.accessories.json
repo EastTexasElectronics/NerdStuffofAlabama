@@ -5,6 +5,7 @@
       "blocks": {
         "template--20057923092756__61ef16a1-bb63-4d59-bdd2-9ce8f4f4f7e0-slide-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "content_type": "image",
             "video_url": "#",
