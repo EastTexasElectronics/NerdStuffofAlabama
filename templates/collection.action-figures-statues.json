@@ -110,7 +110,6 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
         "top_spacing": "medium",
         "width": "page-width",
@@ -141,7 +140,6 @@
     },
     "172f76e6-ca14-490c-8834-23d69db8e6d7": {
       "type": "recently-viewed-products",
-      "disabled": true,
       "settings": {
         "subheading": "SUBHEADING",
         "heading": "Recently viewed products",
