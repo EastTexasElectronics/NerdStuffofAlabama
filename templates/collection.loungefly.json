@@ -110,7 +110,6 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
         "top_spacing": "medium",
         "width": "page-width",
