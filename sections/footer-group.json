@@ -72,7 +72,7 @@
       ],
       "settings": {
         "url": "https:\/\/accounts.shopify.com\/signup?rid=01f1221a-5f1e-4667-bffd-ac5172846d56",
-        "top_spacing": "normal",
+        "top_spacing": "small",
         "width": "page-width",
         "row_reverse": false,
         "heading_aligment": "text-center",
