@@ -29,10 +29,10 @@
           "settings": {
             "show_icon": "svg",
             "icon_name": "Phone",
-            "url": "",
+            "url": "tel: +12282546420",
             "heading": "PHONE",
             "description": "+1 (228)-254-6420\nCall us anytime! If we do not answer leave a message with your name and number and we will get back to you as soon as possible. Please keep in mind an email will usually get the quickest response",
-            "button_name": "Learn more"
+            "button_name": "Call Us Now"
           }
         },
         "template--20057923453204__9b2c70c7-05f7-4281-80f8-afbbd6630450-banner-3": {
@@ -52,6 +52,7 @@
         "template--20057923453204__9b2c70c7-05f7-4281-80f8-afbbd6630450-banner-2",
         "template--20057923453204__9b2c70c7-05f7-4281-80f8-afbbd6630450-banner-3"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "",
         "heading": "",
@@ -73,6 +74,7 @@
     },
     "1654074802c1fb8429": {
       "type": "contact-form",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "heading": "Contact Us",
