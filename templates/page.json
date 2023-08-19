@@ -5,7 +5,7 @@
       "settings": {
         "top_spacing": "small",
         "width": "page-width",
-        "show_heading": true,
+        "show_heading": false,
         "heading_aligment": "text-center"
       }
     }
