@@ -17,8 +17,8 @@
           "type": "image",
           "settings": {
             "content_type": "image",
-            "image_ratio": "1.333333",
-            "image": "shopify:\/\/shop_images\/men-look-at-sun.jpg",
+            "image_ratio": "auto",
+            "image": "shopify:\/\/shop_images\/Cropped.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
             "description": ""
           }
