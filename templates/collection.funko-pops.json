@@ -5,6 +5,7 @@
       "blocks": {
         "01e8e8b9-4016-4780-8d95-24062070e38e": {
           "type": "featured_image",
+          "disabled": true,
           "settings": {
             "image_size": "fixed",
             "desktop_image_height": 420,
