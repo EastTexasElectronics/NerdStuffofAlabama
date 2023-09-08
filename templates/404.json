@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-404",
-      "disabled": true,
       "settings": {
       }
     },
@@ -46,7 +45,7 @@
         "template--20057923191060__90b3931a-3cd0-40ea-bb6d-469bcf6d4a7a-button-1"
       ],
       "settings": {
-        "url": "\/home",
+        "url": "https:\/\/alnerdstuff.com\/",
         "top_spacing": "none",
         "width": "page-width",
         "column_reverse": true,
