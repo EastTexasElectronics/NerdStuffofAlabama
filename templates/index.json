@@ -68,6 +68,7 @@
             "video_url": "",
             "image": "shopify:\/\/shop_images\/LL_1.webp",
             "image_overlay_opacity": 0,
+            "image_mobile": "shopify:\/\/shop_images\/LL_320_x_240_px.webp",
             "subheading": "",
             "heading": "",
             "description": "",
