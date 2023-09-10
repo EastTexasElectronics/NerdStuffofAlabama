@@ -151,6 +151,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "comics-manga",
+            "image": "shopify:\/\/shop_images\/Untitled_design_8.webp",
             "collection_name": "",
             "custom_link": ""
           }
@@ -183,6 +184,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "accessories",
+            "image": "shopify:\/\/shop_images\/Untitled_design_8.webp",
             "collection_name": "",
             "custom_link": ""
           }
