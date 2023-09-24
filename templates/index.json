@@ -38,9 +38,9 @@
           "settings": {
             "content_type": "image",
             "video_url": "",
-            "image": "shopify:\/\/shop_images\/Stay_Tuned.webp",
+            "image": "shopify:\/\/shop_images\/LL_1.jpg",
             "image_overlay_opacity": 0,
-            "image_mobile": "shopify:\/\/shop_images\/LL_320_x_240_px_b55d35b1-f7bd-4042-b5f8-ba2d762bad08.webp",
+            "image_mobile": "shopify:\/\/shop_images\/LL_2.jpg",
             "subheading": "",
             "heading": "",
             "description": "",
@@ -68,9 +68,9 @@
           "settings": {
             "content_type": "image",
             "video_url": "",
-            "image": "shopify:\/\/shop_images\/LL_1.webp",
+            "image": "shopify:\/\/shop_images\/LL.jpg",
             "image_overlay_opacity": 0,
-            "image_mobile": "shopify:\/\/shop_images\/LL_320_x_240_px.webp",
+            "image_mobile": "shopify:\/\/shop_images\/LL_320_x_240_px.jpg",
             "subheading": "",
             "heading": "",
             "description": "",
