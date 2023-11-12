@@ -101,10 +101,10 @@
       ],
       "settings": {
         "top_spacing": "none",
-        "bottom_spacing": "normal",
+        "bottom_spacing": "small",
         "width": "page-width",
-        "image_size": "fixed",
-        "desktop_image_height": 590,
+        "image_size": "auto",
+        "desktop_image_height": 700,
         "texts_aligment_mobile": "text-center-mobile",
         "desktop_navigation": "dots_arrows",
         "mobile_navigation": "dots_arrows",
