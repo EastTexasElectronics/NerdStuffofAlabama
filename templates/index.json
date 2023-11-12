@@ -118,7 +118,7 @@
     "1654072995afca1996": {
       "type": "ticker",
       "settings": {
-        "top_spacing": "none",
+        "top_spacing": "small",
         "ticker_time": 10,
         "direction": "ticker-to-right",
         "text_size": "ticker-text-5",
