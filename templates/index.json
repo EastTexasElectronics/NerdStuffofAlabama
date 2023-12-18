@@ -38,9 +38,9 @@
           "settings": {
             "content_type": "image",
             "video_url": "",
-            "image": "shopify:\/\/shop_images\/LL_15.jpg",
+            "image": "shopify:\/\/shop_images\/NOW_5.jpg",
             "image_overlay_opacity": 0,
-            "image_mobile": "shopify:\/\/shop_images\/NOW_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/NOW_5.jpg",
             "subheading": "",
             "heading": "",
             "description": "",
@@ -68,7 +68,7 @@
           "settings": {
             "content_type": "video",
             "video_url": "",
-            "image": "shopify:\/\/shop_images\/Flash_Sale_Promotion_Comic_Style_-_Instagram_Post_Facebook_Cover_1300_x_620_px_1.jpg",
+            "image": "shopify:\/\/shop_images\/LL_15.jpg",
             "image_overlay_opacity": 0,
             "image_mobile": "shopify:\/\/shop_images\/NOW_320_x_240_px_1.jpg",
             "subheading": "",
