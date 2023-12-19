@@ -67,8 +67,8 @@
             "content_2": "<p>Quick Ship Guarantee <\/p>",
             "icon_name_3": "check_sm",
             "content_3": "<p>Rating: {{ product.metafields.reviews.rating | metafield_tag }}<\/p>",
-            "icon_name_4": "",
-            "content_4": "",
+            "icon_name_4": "check_sm",
+            "content_4": "<p>Ships in protector<\/p>",
             "icon_name_5": "",
             "content_5": ""
           }
