@@ -123,7 +123,28 @@
         "direction": "ticker-to-right",
         "text_size": "ticker-text-5",
         "url": "shopify:\/\/collections",
-        "text": "<p><strong>FREE SHIPPING <\/strong>— On all orders over $75.00! All 4\" Pops! ship in a protector!!!!!!!<\/p>",
+        "text": "<p><strong>FREE SHIPPING <\/strong>— On all orders over $75.00! All 4\" Pops! ship in a protector!!<\/p>",
+        "show_icon": "image",
+        "image": "shopify:\/\/shop_images\/pngwing.com_96x96_2d0ac21a-e481-45de-9b16-1fcefba30102.png",
+        "icon_name": "advertising_sm",
+        "color_svg": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "background": "color",
+        "color_background": "rgba(0,0,0,0)",
+        "gradient": "",
+        "background_spacing": "small",
+        "remove_bottom_spacing": false
+      }
+    },
+    "5ea9f9b6-d40b-4639-99b1-52fee511ff46": {
+      "type": "ticker",
+      "settings": {
+        "top_spacing": "small",
+        "ticker_time": 10,
+        "direction": "ticker-to-right",
+        "text_size": "ticker-text-5",
+        "url": "shopify:\/\/collections",
+        "text": "<p><strong>FREE SHIPPING <\/strong>— On all orders over $75.00! All 4\" Pops! ship in a protector!!<\/p>",
         "show_icon": "image",
         "image": "shopify:\/\/shop_images\/pngwing.com_96x96_2d0ac21a-e481-45de-9b16-1fcefba30102.png",
         "icon_name": "advertising_sm",
@@ -291,6 +312,7 @@
   "order": [
     "1662640935ca798dff",
     "1654072995afca1996",
+    "5ea9f9b6-d40b-4639-99b1-52fee511ff46",
     "165407356523eee2bb",
     "2df68404-6024-4069-aaf1-ba7b3e18fb99",
     "16544355349cd01ef0"
