@@ -120,10 +120,10 @@
       "settings": {
         "top_spacing": "small",
         "ticker_time": 10,
-        "direction": "ticker-to-right",
-        "text_size": "ticker-text-5",
+        "direction": "ticker-to-left",
+        "text_size": "ticker-text-3",
         "url": "shopify:\/\/collections",
-        "text": "<p><strong>FREE SHIPPING <\/strong>— On all orders over $75.00! All 4\" Pops! ship in a protector!<\/p>",
+        "text": "<p><strong>FREE SHIPPING <\/strong>-<strong> <\/strong>on Orders Over $75. Every 4\" Funko Pop! Comes with a Protective Case.<\/p>",
         "show_icon": "image",
         "image": "shopify:\/\/shop_images\/pngwing.com_96x96_2d0ac21a-e481-45de-9b16-1fcefba30102.png",
         "icon_name": "advertising_sm",
