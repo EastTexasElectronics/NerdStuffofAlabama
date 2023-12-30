@@ -8,7 +8,7 @@
           "settings": {
             "content_type": "video",
             "video_url": "",
-            "image": "shopify:\/\/shop_images\/LL_1.svg",
+            "image": "shopify:\/\/shop_images\/LL_2.gif",
             "image_overlay_opacity": 0,
             "image_mobile": "shopify:\/\/shop_images\/GLow-In-The-dark-Results.webp",
             "subheading": "",
@@ -36,7 +36,7 @@
         "451efd59-cfa1-4593-afc5-9b06dc89ca97": {
           "type": "slide",
           "settings": {
-            "content_type": "image",
+            "content_type": "video",
             "video_url": "",
             "image": "shopify:\/\/shop_images\/LL_17.jpg",
             "image_overlay_opacity": 0,
