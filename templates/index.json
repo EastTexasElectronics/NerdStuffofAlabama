@@ -110,7 +110,7 @@
         "mobile_navigation": "dots_arrows",
         "dots_desktop_position": "center",
         "autoplay_enabled": true,
-        "autoplay_time": 5,
+        "autoplay_time": 15,
         "video_slide_mode": "autoplay_muted",
         "play_button_enabled": true
       }
