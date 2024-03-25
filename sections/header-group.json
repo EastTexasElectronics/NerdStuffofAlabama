@@ -11,7 +11,7 @@
             "icon1": "",
             "icon_image1": "shopify:\/\/shop_images\/91325-toy-funko-text-yellow-figures-action_800x800_1_96x96_2c1306ef-ec1e-4c6d-8605-b27ae3ccf8fa.png",
             "icon2": "",
-            "icon_image2": "shopify:\/\/shop_images\/91325-toy-funko-text-yellow-figures-action_800x800_1_96x96_2c1306ef-ec1e-4c6d-8605-b27ae3ccf8fa.png",
+            "icon_image2": "shopify:\/\/shop_images\/pre-order_2.png",
             "icon3": "",
             "icon_image3": "shopify:\/\/shop_images\/pngwing.com_1.png",
             "icon4": "mouse_sm",
@@ -60,8 +60,8 @@
         "logo_position_mobile": "center",
         "visible_items_count": 10,
         "icons_size": 48,
-        "color_tile_base": "#b10021",
-        "color_tile_active": "#0052b1",
+        "color_tile_base": "#d20404",
+        "color_tile_active": "#d20404",
         "color_button": "rgba(0,0,0,0)",
         "sections_count": "1"
       }
