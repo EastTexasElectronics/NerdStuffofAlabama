@@ -36,6 +36,7 @@
       "block_order": [
         "template--20057923092756__61ef16a1-bb63-4d59-bdd2-9ce8f4f4f7e0-slide-1"
       ],
+      "disabled": true,
       "settings": {
         "top_spacing": "normal",
         "bottom_spacing": "normal",
